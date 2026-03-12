@@ -1,0 +1,1 @@
+{\n  "name": "e-commerce-store",\n  "version": "1.0.0",\n  "description": "An e-commerce store application",\n  "main": "server.js",\n  "scripts": {\n    "start": "node server.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "mongoose": "^5.11.15"\n  }\n}
